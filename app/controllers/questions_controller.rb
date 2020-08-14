@@ -5,4 +5,9 @@ class QuestionsController < ApplicationController
         render json: questions, except: [:created_at, :updated_at]
     end
 
+    def welcome
+        render 'welcome'
+    end
+
+
 end
