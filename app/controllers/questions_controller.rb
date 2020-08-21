@@ -6,7 +6,7 @@ class QuestionsController < ApplicationController
     end
 
     def welcome
-        render 'welcome'
+        render template: 'questions/welcome'
     end
 
 
