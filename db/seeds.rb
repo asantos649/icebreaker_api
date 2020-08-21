@@ -13,3 +13,6 @@ Question.create({text:'If you were a candy, which would you be?'})
 Question.create({text:'If you could marry a food, which would you want to marry?'})
 Question.create({text:'If you could add any competition to the Olympics, what would you add so you can win a Gold Medal?'})
 Question.create({text:'If you had a single use of a time machine, when would you travel to spend the rest of your life?'})
+
+Question.create({text:'If you had to become a farmer, and could only grow one thing, what would you grow?'})
+Question.create({text:'What was your favorite childhood toy?'})
